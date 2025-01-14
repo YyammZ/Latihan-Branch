@@ -1,3 +1,3 @@
 # Latihan-Branch
 perkenalkan saya akram
-good day
+dicoding membantu saya
